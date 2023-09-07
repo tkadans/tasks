@@ -8,7 +8,7 @@ function App(): JSX.Element {
             <header className="App-header">
                 UD CISC275 Taylor Kadans Hello World
             </header>
-            <h1>This is a header</h1>
+            <h1>This is a header.</h1>
             <img
                 src="https://www.hepper.com/wp-content/uploads/2021/11/havanese-2780122_1280-2-1024x682.jpg"
                 alt="A havanese"
