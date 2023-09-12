@@ -11,7 +11,7 @@ function App(): JSX.Element {
             <h1>This is a header.</h1>
             <img
                 src="https://www.hepper.com/wp-content/uploads/2021/11/havanese-2780122_1280-2-1024x682.jpg"
-                alt="A havanese"
+                alt="havanese"
             />
             List:
             <ul>
