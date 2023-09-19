@@ -39,7 +39,7 @@ export function stringsToIntegers(numbers: string[]): number[] {
  * Consume an array of strings and return them as numbers. Note that
  * the strings MAY have "$" symbols at the beginning, in which case
  * those should be removed. If the result cannot be parsed as an integer,
- * convert it to 0 instead.
+ * convert it to 0 instead
  */
 // Remember, you can write functions as lambdas too! They work exactly the same.
 export const removeDollars = (amounts: string[]): number[] => {
