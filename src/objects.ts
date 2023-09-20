@@ -142,7 +142,7 @@ export function addOption(question: Question, newOption: string): Question {
 }
 
 /**
- * Consumes an id, name, and two questions, and produces a new question.
+ * Consumes an id, name, and two questions, and produces a new question
  * The new question will use the `body`, `type`, `options`, and `expected` of the
  * `contentQuestion`. The second question will provide the `points`.
  * The `published` status should be set to false.
