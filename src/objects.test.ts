@@ -15,7 +15,7 @@ import testQuestionData from "./data/questions.json";
 import backupQuestionData from "./data/questions.json";
 
 ////////////////////////////////////////////
-// Setting up the test data
+// Setting up the test data.
 
 const { BLANK_QUESTIONS, SIMPLE_QUESTIONS }: Record<string, Question[]> =
     // Typecast the test data that we imported to be a record matching
