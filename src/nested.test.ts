@@ -28,7 +28,7 @@ const {
     SIMPLE_QUESTIONS_2
 }: Record<string, Question[]> =
     // Typecast the test data that we imported to be a record matching
-    //  strings to the question list
+    //  strings to the question list.
     testQuestionData as Record<string, Question[]>;
 
 // We have backup versions of the data to make sure all changes are immutable
