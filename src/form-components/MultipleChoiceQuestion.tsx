@@ -11,7 +11,7 @@ export function MultipleChoiceQuestion({
     const [answer, setAnswer] = useState<string>(options[0]);
     return (
         <div>
-            <h3>Multiple Choice Question</h3>
+            <h3>Multiple Choice Question : </h3>
             <Form.Label>Answer</Form.Label>
             <Form.Select
                 value={answer}
